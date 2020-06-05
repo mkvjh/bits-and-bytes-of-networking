@@ -1,5 +1,5 @@
 # bits-and-bytes-of-networking
-it's my notes I created while studying this course on coursera
+these are my notes I created while studying this course on coursera
 
 an IP address will be assigned to it automatically through a technology known as Dynamic Host Configuration Protocol. An IP address assigned this way is known as a dynamic IP address
 IP Datagrams and Encapsulation
